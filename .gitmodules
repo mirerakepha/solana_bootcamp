@@ -1,0 +1,6 @@
+[submodule "favorites"]
+	path = favorites
+	url = https://github.com/mirerakepha/favorites.git
+[submodule "voting-dapp"]
+	path = voting-dapp
+	url = https://github.com/mirerakepha/voting-dapp.git
